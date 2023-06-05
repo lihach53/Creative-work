@@ -1,0 +1,10 @@
+C:\Users\Asokat\Desktop\ucheba\infa\liba\liba\x64\Debug\liba.vcxproj.AssemblyReference.cache
+C:\Users\Asokat\Desktop\ucheba\infa\liba\liba\x64\Debug\liba.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Asokat\Desktop\ucheba\infa\liba\liba\x64\Debug\liba.Form1.resources
+C:\Users\Asokat\Desktop\ucheba\infa\liba\liba\x64\Debug\liba.vcxproj.GenerateResource.cache
+C:\Users\Asokat\Desktop\ucheba\infa\liba\liba\x64\Debug\liba.MenuForm.resources
+C:\Users\Asokat\Desktop\ucheba\infa\liba\liba\x64\Debug\liba.RegForm.resources
+C:\Users\Asokat\Desktop\ucheba\infa\liba\liba\x64\Debug\liba.ReaderForm.resources
+C:\Users\Asokat\Desktop\ucheba\infa\liba\liba\x64\Debug\liba.GiveForm.resources
+C:\Users\Asokat\Desktop\ucheba\infa\liba\liba\x64\Debug\liba.dateTimePicker.resources
+C:\Users\Asokat\Desktop\ucheba\infa\liba\liba\x64\Debug\liba.AcceptForm.resources

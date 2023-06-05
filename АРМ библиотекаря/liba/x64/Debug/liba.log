@@ -1,0 +1,63 @@
+﻿  AcceptForm.cpp
+C:\Users\Asokat\Desktop\ucheba\infa\liba\liba\AcceptForm.h(216,17): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+  MenuForm.cpp
+C:\Users\Asokat\Desktop\ucheba\infa\liba\liba\ReaderForm.h(280,17): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Asokat\Desktop\ucheba\infa\liba\liba\ReaderForm.h(299,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Asokat\Desktop\ucheba\infa\liba\liba\ReaderForm.h(307,17): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Asokat\Desktop\ucheba\infa\liba\liba\ReaderForm.h(393,16): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Asokat\Desktop\ucheba\infa\liba\liba\GiveForm.h(261,16): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Asokat\Desktop\ucheba\infa\liba\liba\AcceptForm.h(216,17): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+  RegForm.cpp
+C:\Users\Asokat\Desktop\ucheba\infa\liba\liba\ReaderForm.h(280,17): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Asokat\Desktop\ucheba\infa\liba\liba\ReaderForm.h(299,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Asokat\Desktop\ucheba\infa\liba\liba\ReaderForm.h(307,17): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Asokat\Desktop\ucheba\infa\liba\liba\ReaderForm.h(393,16): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Asokat\Desktop\ucheba\infa\liba\liba\GiveForm.h(261,16): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Asokat\Desktop\ucheba\infa\liba\liba\AcceptForm.h(216,17): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+  Создание кода...
+  AcceptForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  liba.vcxproj -> C:\Users\Asokat\Desktop\ucheba\infa\liba\x64\Debug\liba.exe
