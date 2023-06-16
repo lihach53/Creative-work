@@ -1,0 +1,42 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (OpenGL_Test.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(333,19): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(334,19): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(348,48): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(348,41): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(349,48): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(349,41): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(350,48): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(350,41): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(351,48): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(351,41): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(362,20): warning C4018: <: несоответствие типов со знаком и без знака
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(372,20): warning C4018: <: несоответствие типов со знаком и без знака
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(383,20): warning C4018: <: несоответствие типов со знаком и без знака
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(463,20): warning C4018: <: несоответствие типов со знаком и без знака
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(563,8): warning C4101: length: неиспользованная локальная переменная
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(562,8): warning C4101: second: неиспользованная локальная переменная
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(616,21): warning C4018: <: несоответствие типов со знаком и без знака
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(97,22): warning C4018: <: несоответствие типов со знаком и без знака
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(89,1): message : во время компиляции функции-члена класс шаблон "void Map<int>::matrixOutput(void)"
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(576,20): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Map<int>::matrixOutput(void)"
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(132,10): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Map<int>"
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(102,22): warning C4018: <: несоответствие типов со знаком и без знака
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(106,23): warning C4018: <: несоответствие типов со знаком и без знака
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(57,21): warning C4018: <: несоответствие типов со знаком и без знака
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(56,1): message : во время компиляции функции-члена класс шаблон "int Map<int>::number(const T &)"
+          with
+          [
+              T=int
+          ]
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(67,3): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Map<int>::number(const T &)"
+          with
+          [
+              T=int
+          ]
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(435,20): warning C4018: <: несоответствие типов со знаком и без знака
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(434,1): message : во время компиляции функции-члена класс шаблон "void Map<int>::mapOutput(void)"
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(612,15): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Map<int>::mapOutput(void)"
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(438,20): warning C4018: <: несоответствие типов со знаком и без знака
+F:\помойка\TravellingSalesmanProblem\OpenGL_Test\OpenGL_Test\graph.h(439,25): warning C4018: <: несоответствие типов со знаком и без знака
+  OpenGL_Test.vcxproj -> F:\помойка\TravellingSalesmanProblem\OpenGL_Test\Debug\TravellingSalesmanProblem.exe

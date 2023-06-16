@@ -1,0 +1,35 @@
+﻿  Source1.cpp
+C:\Users\Asokat\Desktop\TravellingSalesmanProblem-main\OpenGL_Test\OpenGL_Test\graph.h(434,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Asokat\Desktop\TravellingSalesmanProblem-main\OpenGL_Test\OpenGL_Test\graph.h(435,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Asokat\Desktop\TravellingSalesmanProblem-main\OpenGL_Test\OpenGL_Test\graph.h(441,63): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Asokat\Desktop\TravellingSalesmanProblem-main\OpenGL_Test\OpenGL_Test\graph.h(473,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asokat\Desktop\TravellingSalesmanProblem-main\OpenGL_Test\OpenGL_Test\graph.h(541,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asokat\Desktop\TravellingSalesmanProblem-main\OpenGL_Test\OpenGL_Test\graph.h(675,8): warning C4101: length: неиспользованная локальная переменная
+C:\Users\Asokat\Desktop\TravellingSalesmanProblem-main\OpenGL_Test\OpenGL_Test\graph.h(674,8): warning C4101: second: неиспользованная локальная переменная
+C:\Users\Asokat\Desktop\TravellingSalesmanProblem-main\OpenGL_Test\OpenGL_Test\graph.h(151,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asokat\Desktop\TravellingSalesmanProblem-main\OpenGL_Test\OpenGL_Test\graph.h(138,1): message : во время компиляции функции-члена класс шаблон "void Graph<int>::Matrix_Output(void)"
+C:\Users\Asokat\Desktop\TravellingSalesmanProblem-main\OpenGL_Test\OpenGL_Test\graph.h(691,23): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::Matrix_Output(void)"
+C:\Users\Asokat\Desktop\TravellingSalesmanProblem-main\OpenGL_Test\OpenGL_Test\graph.h(182,12): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<int>"
+C:\Users\Asokat\Desktop\TravellingSalesmanProblem-main\OpenGL_Test\OpenGL_Test\graph.h(158,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asokat\Desktop\TravellingSalesmanProblem-main\OpenGL_Test\OpenGL_Test\graph.h(162,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asokat\Desktop\TravellingSalesmanProblem-main\OpenGL_Test\OpenGL_Test\graph.h(88,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asokat\Desktop\TravellingSalesmanProblem-main\OpenGL_Test\OpenGL_Test\graph.h(86,1): message : во время компиляции функции-члена класс шаблон "int Graph<int>::Number(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Asokat\Desktop\TravellingSalesmanProblem-main\OpenGL_Test\OpenGL_Test\graph.h(103,3): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<int>::Number(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Asokat\Desktop\TravellingSalesmanProblem-main\OpenGL_Test\OpenGL_Test\graph.h(505,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asokat\Desktop\TravellingSalesmanProblem-main\OpenGL_Test\OpenGL_Test\graph.h(504,1): message : во время компиляции функции-члена класс шаблон "void Graph<int>::Graph_Output(void)"
+C:\Users\Asokat\Desktop\TravellingSalesmanProblem-main\OpenGL_Test\OpenGL_Test\graph.h(725,20): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::Graph_Output(void)"
+C:\Users\Asokat\Desktop\TravellingSalesmanProblem-main\OpenGL_Test\OpenGL_Test\graph.h(510,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asokat\Desktop\TravellingSalesmanProblem-main\OpenGL_Test\OpenGL_Test\graph.h(512,25): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 198 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  OpenGL_Test.vcxproj -> C:\Users\Asokat\Desktop\TravellingSalesmanProblem-main\OpenGL_Test\Release\TravellingSalesmanProblem.exe
